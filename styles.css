@@ -1,12 +1,12 @@
 
 
 body {
-  background: #0AAEE3;
+  background: #52B3EB;
   font-family: Arial, Helvetica, sans-serif;
 } 
 
 h1 {
-  color: #261EA8;
+  color: #5252EB;
   text-align: center;
 }
 
@@ -14,7 +14,7 @@ h1 {
   display: flex;
   padding: 10px;
   margin: 10px;
-  background: #D5D5D5;
+  background: #52E3EB;
 }
 
 .assign img {
