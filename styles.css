@@ -11,7 +11,7 @@ h1 {
 }
 
 .assign {
-  display: flex;
+  display: block;
   padding: 10px;
   margin: 10px;
   background: #52E3EB;
