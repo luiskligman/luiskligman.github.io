@@ -4,6 +4,7 @@ body {
   background: #52B3EB;
   font-family: Arial, Helvetica, sans-serif;
   display: flex;
+  flex-wrap: wrap;
 } 
 
 h1 {
